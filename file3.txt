@@ -4,5 +4,6 @@
 | 101        | Sourabh        | DevOps     | Pune       |
 | 102        | Amit           | Tester     | Mumbai     |
 | 103        | Neha           | Developer  | Bangalore  |
+| 104	     | rahul	      | AI ANalyst | Satara	|	
 | 104        | Rahul          | Manager    | Hyderabad  |
 +------------+----------------+------------+------------+
